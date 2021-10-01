@@ -1,0 +1,11 @@
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\bin\Debug\WebBrowser_DCU.exe.config
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\bin\Debug\WebBrowser_DCU.exe
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\bin\Debug\WebBrowser_DCU.pdb
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.WebBrowser_Container.resources
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.Properties.Resources.resources
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.csproj.GenerateResource.cache
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.exe
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.pdb
+C:\Users\Edwin\Documents\C_Sharp\WebBrowser_DCU\obj\Debug\WebBrowser_DCU.HelpForm.resources
