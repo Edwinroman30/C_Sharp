@@ -1,0 +1,7 @@
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\bin\Debug\SingleResposabilityPrinciple.exe.config
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\bin\Debug\SingleResposabilityPrinciple.exe
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\bin\Debug\SingleResposabilityPrinciple.pdb
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\SingleResposabilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\SingleResposabilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\SingleResposabilityPrinciple.exe
+C:\Users\Edwin\Documents\C_Sharp\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\SingleResposabilityPrinciple.pdb

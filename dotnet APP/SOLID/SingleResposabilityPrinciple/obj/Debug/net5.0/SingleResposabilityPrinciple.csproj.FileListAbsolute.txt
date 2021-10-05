@@ -1,5 +1,0 @@
-C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\net5.0\SingleResposabilityPrinciple.csproj.AssemblyReference.cache
-C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\net5.0\SingleResposabilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\net5.0\SingleResposabilityPrinciple.AssemblyInfoInputs.cache
-C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\net5.0\SingleResposabilityPrinciple.AssemblyInfo.cs
-C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\SOLID\SingleResposabilityPrinciple\obj\Debug\net5.0\SingleResposabilityPrinciple.csproj.CoreCompileInputs.cache
