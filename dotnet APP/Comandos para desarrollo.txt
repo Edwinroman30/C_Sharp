@@ -1,0 +1,19 @@
+Comando para trabajar en .net:
+
+SABER INFO:
+
+dotnet --info -> Saber la versión.
+
+
+CREAR UN PROYECTO:
+
+Dirigise al directorio o crear el directorio (MKDIR) donde
+queremos el proyecto.
+
+dotnet new [console] -n [nombre proyecto]
+
+
+CORRER UN PROYECTO:
+
+dotnet run -> Este proceso se debe realizar en el directorio root (donde esta el proyecto).
+

@@ -1,0 +1,16 @@
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\a19a64629\Documents\ITLA\4 - Fourth_Quater\Programacion II\dotnet APP\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
