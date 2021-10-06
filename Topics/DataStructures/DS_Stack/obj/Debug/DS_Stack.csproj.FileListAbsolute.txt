@@ -1,0 +1,7 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\bin\Debug\DS_Stack.exe.config
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\bin\Debug\DS_Stack.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\bin\Debug\DS_Stack.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\obj\Debug\DS_Stack.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\obj\Debug\DS_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\obj\Debug\DS_Stack.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DS_Stack\obj\Debug\DS_Stack.pdb
