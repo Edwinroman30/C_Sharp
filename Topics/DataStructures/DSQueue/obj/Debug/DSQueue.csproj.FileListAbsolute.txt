@@ -1,0 +1,7 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\bin\Debug\DSQueue.exe.config
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\bin\Debug\DSQueue.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\bin\Debug\DSQueue.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\obj\Debug\DSQueue.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\obj\Debug\DSQueue.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\obj\Debug\DSQueue.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\DataStructures\DSQueue\obj\Debug\DSQueue.pdb
