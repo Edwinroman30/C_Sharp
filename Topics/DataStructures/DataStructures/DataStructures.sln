@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS_Stack", "..\DS_Stack\DS_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSQueue", "..\DSQueue\DSQueue.csproj", "{BED2E478-9525-4EC2-AEB7-35A5923D4F93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSHashTable", "..\DSHashTable\DSHashTable.csproj", "{F14CA178-5177-4BA5-AA77-72BBD96D5ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BED2E478-9525-4EC2-AEB7-35A5923D4F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED2E478-9525-4EC2-AEB7-35A5923D4F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED2E478-9525-4EC2-AEB7-35A5923D4F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14CA178-5177-4BA5-AA77-72BBD96D5ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14CA178-5177-4BA5-AA77-72BBD96D5ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14CA178-5177-4BA5-AA77-72BBD96D5ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14CA178-5177-4BA5-AA77-72BBD96D5ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
