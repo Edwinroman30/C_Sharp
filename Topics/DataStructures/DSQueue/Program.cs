@@ -50,6 +50,9 @@ namespace DSQueue
             QOrders.Enqueue(order2);
             QOrders.Enqueue(order3);
 
+            //Importante, cuando se va a buscar o eliminar en una de las Estructuras de Datos
+            //Se debe de comprobar la existencia de valores en la estructura de datos.
+
             foreach(COrders order in QOrders)
                 Console.WriteLine(order.ShowIt());
 
