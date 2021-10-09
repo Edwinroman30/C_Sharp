@@ -1,0 +1,10 @@
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\bin\Debug\ComponentesDePantallas_DCU.exe.config
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\bin\Debug\ComponentesDePantallas_DCU.exe
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\bin\Debug\ComponentesDePantallas_DCU.pdb
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.FTextProperties.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.Properties.Resources.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.csproj.GenerateResource.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.exe
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.pdb
