@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{04021CAF-EFA9-4B9D-A5E2-11CE766404C6}</ProjectGuid>
+    <ProjectGuid>{49ECB352-A5A7-48B6-8A36-6E96F3BDFAD3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ComponentesDePantallas_DCU</RootNamespace>
-    <AssemblyName>ComponentesDePantallas_DCU</AssemblyName>
+    <RootNamespace>MultimediaPlayer_DCU</RootNamespace>
+    <AssemblyName>MultimediaPlayer_DCU</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,25 +46,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FEdictor.cs">
+    <Compile Include="FMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FEdictor.Designer.cs">
-      <DependentUpon>FEdictor.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FTextProperties.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FTextProperties.Designer.cs">
-      <DependentUpon>FTextProperties.cs</DependentUpon>
+    <Compile Include="FMain.Designer.cs">
+      <DependentUpon>FMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FEdictor.resx">
-      <DependentUpon>FEdictor.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FTextProperties.resx">
-      <DependentUpon>FTextProperties.cs</DependentUpon>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FMain.resx">
+      <DependentUpon>FMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -74,7 +71,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -87,6 +88,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VLCICON.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

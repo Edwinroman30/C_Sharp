@@ -8,3 +8,4 @@ C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\Compon
 C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.csproj.CoreCompileInputs.cache
 C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.exe
 C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.pdb
+C:\Users\Edwin\Documents\C_Sharp\DCU\ComponentesDePantallas_DCU\obj\Debug\ComponentesDePantallas_DCU.FEdictor.resources

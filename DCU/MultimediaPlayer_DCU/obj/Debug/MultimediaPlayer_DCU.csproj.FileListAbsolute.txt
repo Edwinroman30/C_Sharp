@@ -1,0 +1,11 @@
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\bin\Debug\MultimediaPlayer_DCU.exe.config
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\bin\Debug\MultimediaPlayer_DCU.exe
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\bin\Debug\MultimediaPlayer_DCU.pdb
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.FMain.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.Properties.Resources.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.csproj.GenerateResource.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.exe
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.pdb
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.SplashScreen.resources
