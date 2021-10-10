@@ -1,0 +1,10 @@
+F:\Forms\First_App_Hello\Programa05_02\bin\Debug\Programa05_02.exe.config
+F:\Forms\First_App_Hello\Programa05_02\bin\Debug\Programa05_02.exe
+F:\Forms\First_App_Hello\Programa05_02\bin\Debug\Programa05_02.pdb
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.csprojAssemblyReference.cache
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.Form1.resources
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.Properties.Resources.resources
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.csproj.GenerateResource.cache
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.csproj.CoreCompileInputs.cache
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.exe
+F:\Forms\First_App_Hello\Programa05_02\obj\Debug\Programa05_02.pdb

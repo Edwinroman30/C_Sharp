@@ -1,0 +1,9 @@
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\bin\Debug\Programa01_05.exe.config
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\bin\Debug\Programa01_05.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\bin\Debug\Programa01_05.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\obj\Debug\Programa01_05.Form1.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\obj\Debug\Programa01_05.Properties.Resources.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\obj\Debug\Programa01_05RadioButtom.csproj.GenerateResource.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\obj\Debug\Programa01_05RadioButtom.csproj.CoreCompileInputs.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\obj\Debug\Programa01_05.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_05\obj\Debug\Programa01_05.pdb

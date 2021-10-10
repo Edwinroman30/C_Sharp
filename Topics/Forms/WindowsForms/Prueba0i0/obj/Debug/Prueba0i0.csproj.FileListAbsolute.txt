@@ -1,0 +1,22 @@
+F:\Forms\First_App_Hello\Prueba0i0\bin\Debug\Prueba0i0.exe.config
+F:\Forms\First_App_Hello\Prueba0i0\bin\Debug\Prueba0i0.exe
+F:\Forms\First_App_Hello\Prueba0i0\bin\Debug\Prueba0i0.pdb
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.csprojAssemblyReference.cache
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.Form1.resources
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.Properties.Resources.resources
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.csproj.GenerateResource.cache
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.csproj.CoreCompileInputs.cache
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.exe
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.pdb
+F:\Forms\First_App_Hello\Prueba0i0\obj\Debug\Prueba0i0.Form2.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\bin\Debug\Prueba0i0.exe.config
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\bin\Debug\Prueba0i0.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\bin\Debug\Prueba0i0.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.csproj.AssemblyReference.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.Form1.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.Form2.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.Properties.Resources.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.csproj.GenerateResource.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.csproj.CoreCompileInputs.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Prueba0i0\obj\Debug\Prueba0i0.pdb

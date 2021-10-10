@@ -1,0 +1,19 @@
+F:\Forms\First_App_Hello\Programa01_06\bin\Debug\Programa01_06.exe.config
+F:\Forms\First_App_Hello\Programa01_06\bin\Debug\Programa01_06.exe
+F:\Forms\First_App_Hello\Programa01_06\bin\Debug\Programa01_06.pdb
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.Form1.resources
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.Properties.Resources.resources
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.csproj.GenerateResource.cache
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.csproj.CoreCompileInputs.cache
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.exe
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.pdb
+F:\Forms\First_App_Hello\Programa01_06\obj\Debug\Programa01_06.csprojAssemblyReference.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\bin\Debug\Programa01_06.exe.config
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\bin\Debug\Programa01_06.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\bin\Debug\Programa01_06.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\obj\Debug\Programa01_06.Form1.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\obj\Debug\Programa01_06.Properties.Resources.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\obj\Debug\Programa01_06.csproj.GenerateResource.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\obj\Debug\Programa01_06.csproj.CoreCompileInputs.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\obj\Debug\Programa01_06.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_06\obj\Debug\Programa01_06.pdb

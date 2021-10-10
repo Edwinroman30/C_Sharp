@@ -1,0 +1,10 @@
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\bin\Debug\Programa01_02.exe.config
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\bin\Debug\Programa01_02.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\bin\Debug\Programa01_02.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\WorkingLabels.csproj.AssemblyReference.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\Programa01_02.Form1.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\Programa01_02.Properties.Resources.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\WorkingLabels.csproj.GenerateResource.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\WorkingLabels.csproj.CoreCompileInputs.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\Programa01_02.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\Programa01_02\obj\Debug\Programa01_02.pdb

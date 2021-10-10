@@ -1,0 +1,11 @@
+F:\Forms\First_App_Hello\Testing_That_learned\bin\Debug\Testing_That_learned.exe.config
+F:\Forms\First_App_Hello\Testing_That_learned\bin\Debug\Testing_That_learned.exe
+F:\Forms\First_App_Hello\Testing_That_learned\bin\Debug\Testing_That_learned.pdb
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.csprojAssemblyReference.cache
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.Form1.resources
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.Properties.Resources.resources
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.csproj.GenerateResource.cache
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.csproj.CoreCompileInputs.cache
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.exe
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.pdb
+F:\Forms\First_App_Hello\Testing_That_learned\obj\Debug\Testing_That_learned.Form2.resources

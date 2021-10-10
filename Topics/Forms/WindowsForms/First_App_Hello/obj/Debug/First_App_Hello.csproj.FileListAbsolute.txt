@@ -1,0 +1,20 @@
+F:\Forms\First_App_Hello\First_App_Hello\bin\Debug\First_App_Hello.exe.config
+F:\Forms\First_App_Hello\First_App_Hello\bin\Debug\First_App_Hello.exe
+F:\Forms\First_App_Hello\First_App_Hello\bin\Debug\First_App_Hello.pdb
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.csprojAssemblyReference.cache
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.Form1.resources
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.Properties.Resources.resources
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.csproj.GenerateResource.cache
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.csproj.CoreCompileInputs.cache
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.exe
+F:\Forms\First_App_Hello\First_App_Hello\obj\Debug\First_App_Hello.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\bin\Debug\First_App_Hello.exe.config
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\bin\Debug\First_App_Hello.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\bin\Debug\First_App_Hello.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.csproj.AssemblyReference.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.Form1.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.Properties.Resources.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.csproj.GenerateResource.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.csproj.CoreCompileInputs.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\First_App_Hello\obj\Debug\First_App_Hello.pdb

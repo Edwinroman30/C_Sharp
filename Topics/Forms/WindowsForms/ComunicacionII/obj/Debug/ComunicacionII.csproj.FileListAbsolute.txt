@@ -1,0 +1,22 @@
+F:\Forms\First_App_Hello\ComunicacionII\bin\Debug\ComunicacionII.exe.config
+F:\Forms\First_App_Hello\ComunicacionII\bin\Debug\ComunicacionII.exe
+F:\Forms\First_App_Hello\ComunicacionII\bin\Debug\ComunicacionII.pdb
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.csprojAssemblyReference.cache
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.Form1.resources
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.Form2.resources
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.Properties.Resources.resources
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.csproj.GenerateResource.cache
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.csproj.CoreCompileInputs.cache
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.exe
+F:\Forms\First_App_Hello\ComunicacionII\obj\Debug\ComunicacionII.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\bin\Debug\ComunicacionII.exe.config
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\bin\Debug\ComunicacionII.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\bin\Debug\ComunicacionII.pdb
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.csproj.AssemblyReference.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.Form1.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.Form2.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.Properties.Resources.resources
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.csproj.GenerateResource.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.csproj.CoreCompileInputs.cache
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.exe
+E:\Prog\Programacion I\C#\C# Forms\WindowsForms_Journey\ComunicacionII\obj\Debug\ComunicacionII.pdb
