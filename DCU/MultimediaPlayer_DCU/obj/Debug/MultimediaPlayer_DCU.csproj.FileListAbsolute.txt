@@ -9,3 +9,10 @@ C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPl
 C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.exe
 C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.pdb
 C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.SplashScreen.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.csproj.ResolveComReference.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\bin\Debug\MACTrackBarLib.dll
+C:\Users\Edwin\Documents\C_Sharp\DCU\MultimediaPlayer_DCU\obj\Debug\MultimediaPlayer_DCU.csproj.CopyComplete
