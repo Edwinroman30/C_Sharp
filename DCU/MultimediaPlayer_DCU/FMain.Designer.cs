@@ -229,6 +229,7 @@ namespace MultimediaPlayer_DCU
             this.trackVolumen.Size = new System.Drawing.Size(45, 78);
             this.trackVolumen.SmallChange = 10;
             this.trackVolumen.TabIndex = 3;
+            this.trackVolumen.Scroll += new System.EventHandler(this.trackVolumen_Scroll);
             // 
             // btnStop
             // 

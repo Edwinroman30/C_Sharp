@@ -37,7 +37,7 @@ namespace MultimediaPlayer_DCU
 
         }
 
-        //My funcion para iniciar
+        //My funcion para iniciar el Splash SCREEN
         private void SplashStart()
         {
             //Para que corrar el Splash de manera iniciar como una app
@@ -167,6 +167,8 @@ namespace MultimediaPlayer_DCU
                 timer1.Stop();
                 macTrackBar1.Value = 0;
             }
+
+
         }
 
         private void Reproductor_PlayStateChange(object sender, AxWMPLib._WMPOCXEvents_PlayStateChangeEvent e)
@@ -177,6 +179,7 @@ namespace MultimediaPlayer_DCU
         private void btnNext_Click(object sender, EventArgs e)
         {
             Reproductor.Ctlcontrols.next();
+
             __play = false;
 
         }
@@ -192,6 +195,11 @@ namespace MultimediaPlayer_DCU
         {
             Fhelp Fayuda = new Fhelp();
             Fayuda.ShowDialog();
+        }
+
+        private void trackVolumen_Scroll(object sender, EventArgs e)
+        {
+            Reproductor.settings.volume = trackVolumen.Value;
         }
     }
 }
