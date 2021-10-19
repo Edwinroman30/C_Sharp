@@ -120,7 +120,7 @@ namespace MultimediaPlayer_DCU
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.Color.GhostWhite;
+            this.menuStrip1.BackColor = System.Drawing.Color.White;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.abrirToolStripMenuItem,
             this.estiloToolStripMenuItem,
