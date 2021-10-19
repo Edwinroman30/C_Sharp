@@ -117,57 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <data name="Reproductor.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
-    <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
-        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
-        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAuQAAAAIB
-        AAAAAQAAAAAAAAAAAAAAAKQAAAAAAwAACAACAAAAAAAFAAAAAAAAAPA/AwAAAAAABQAAAAAAAAAAAAgA
-        AgAAAAAAAwABAAAACwD//wMAAAAAAAsA//8IAAIAAAAAAAMAMgAAAAsAAAAIAAoAAABuAG8AbgBlAAAA
-        CwAAAAsAAAALAP//CwD//wsAAAAIAAIAAAAAAAgAAgAAAAAACAACAAAAAAAIAAIAAAAAAAsAAACbNAAA
-        zRsAAAs=
-</value>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Vrom es un programa de aplicación especificamente un reproductor de multimedia de música y vídeo. Este nos brinda la facilidad de poder reproducir al mismo tiempo archivos binarios que contienen gráficos ilustrativos e sonidos agradables.</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="btnBack.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAAHYAAAB2AU57JggAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
-        AAAA2UlEQVQ4T6XTvQ3CMBCGYQMSBR1rwAZsBRVMwe8MiIIFkBiBDqio2CASlCB4P7CjS+JEkXLSIzkX
-        n+O/uEgMscAFT09t5QYojS42eONT4oU11DcTShwRK4pR38wg+nKsYxXN5Bdas6aW75BgjLt/PmHq26Ia
-        1bqlT1g3hA3bY4ce2rD9tLHuahJyQB8hRmj9m4UBdDruYRJbdFAW+QFU23yAxkvQRtik1N3EOSqPcQJ7
-        jDPfFtWkV1uXIryoa4U0Gl9lhRKaSWw5gd7py4ViG7Hf+exzud/ZuS9QF5x+9zRZ4QAAAABJRU5ErkJg
-        gg==
-</value>
-  </data>
-  <data name="btnPlay.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAAG8AAABvAfGi3EMAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
-        AAAAtElEQVQ4T6WT0Q2DMAxEww7MwCoMwRJs0O7SEVD3QAyBVPW/v+mda1eGuFVLIj0pOtsHsZOUc96A
-        1YEzmMCqcE+tK/Lfm5QaMIIHoBDBGHOajQEFcAU++RvMFRMzoKtP+IVRa+XM0W8vgeZhDWulOUWCug/g
-        blrACUiHiyAN1KQFF9N3sFbGVATNwBn14GZxhbX1BtVHqG7ipzHOgeZ5jVG/dPwiqUHdVXYmxx6TB+uP
-        55zTE1RWOPzQgi40AAAAAElFTkSuQmCC
-</value>
-  </data>
-  <data name="btnNext.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAAHYAAAB2AU57JggAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
-        AAAA30lEQVQ4T6XTSw4BQRDG8UYitg5hww3cio04hecFbKxcQOIIdh5rbiBhSfh/o3tSM3qITCW/pKem
-        uqdf4yLRwRh73Dy1lWujMOqY44FngTtmUG0mlNgg1ilGtZlB9OVY4TeaSRJas6YWXgyw9e0Terj4Z0t9
-        1NdNfCKoooEFVlC0cIStE22sO5iEaABFBd13M4km1rC1Oh13NQkJA8SihiVCrfqWH6D0ErQRNvnPJo7w
-        cYxDhGM8o4+iY0yvti5FvuCXKdIofZUVSmgmdjl5eqcvf3S2Efuddz6X+52dewGGCZxWtOb1KAAAAABJ
-        RU5ErkJggg==
-</value>
-  </data>
-  <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>132, 17</value>
-  </metadata>
-  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>272, 17</value>
-  </metadata>
 </root>

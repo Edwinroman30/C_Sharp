@@ -187,5 +187,11 @@ namespace MultimediaPlayer_DCU
             __play = false;
 
         }
+
+        private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Fhelp Fayuda = new Fhelp();
+            Fayuda.ShowDialog();
+        }
     }
 }

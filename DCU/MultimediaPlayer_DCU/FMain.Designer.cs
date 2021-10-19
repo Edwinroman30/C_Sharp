@@ -45,11 +45,11 @@ namespace MultimediaPlayer_DCU
             this.lblDuration = new System.Windows.Forms.Label();
             this.btnBack = new System.Windows.Forms.Button();
             this.trackVolumen = new System.Windows.Forms.TrackBar();
+            this.btnStop = new System.Windows.Forms.Button();
             this.btnPlay = new System.Windows.Forms.Button();
             this.btnNext = new System.Windows.Forms.Button();
             this.Reproductor = new AxWMPLib.AxWindowsMediaPlayer();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.btnStop = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -149,6 +149,7 @@ namespace MultimediaPlayer_DCU
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
             this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.ayudaToolStripMenuItem.Text = "Ayuda ";
+            this.ayudaToolStripMenuItem.Click += new System.EventHandler(this.ayudaToolStripMenuItem_Click);
             // 
             // panel2
             // 
@@ -168,6 +169,8 @@ namespace MultimediaPlayer_DCU
             // 
             // macTrackBar1
             // 
+            this.macTrackBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.macTrackBar1.BackColor = System.Drawing.Color.Transparent;
             this.macTrackBar1.BorderColor = System.Drawing.SystemColors.ActiveBorder;
             this.macTrackBar1.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -208,7 +211,7 @@ namespace MultimediaPlayer_DCU
             this.btnBack.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(213)))), ((int)(((byte)(213)))));
             this.btnBack.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBack.Image = global::MultimediaPlayer_DCU.Properties.Resources.back2;
+            this.btnBack.Image = ((System.Drawing.Image)(resources.GetObject("btnBack.Image")));
             this.btnBack.Location = new System.Drawing.Point(90, 40);
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(122, 33);
@@ -227,12 +230,26 @@ namespace MultimediaPlayer_DCU
             this.trackVolumen.SmallChange = 10;
             this.trackVolumen.TabIndex = 3;
             // 
+            // btnStop
+            // 
+            this.btnStop.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnStop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(213)))), ((int)(((byte)(213)))));
+            this.btnStop.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnStop.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnStop.Location = new System.Drawing.Point(237, 40);
+            this.btnStop.Name = "btnStop";
+            this.btnStop.Size = new System.Drawing.Size(122, 33);
+            this.btnStop.TabIndex = 0;
+            this.btnStop.Text = "■";
+            this.btnStop.UseVisualStyleBackColor = false;
+            this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
+            // 
             // btnPlay
             // 
-            this.btnPlay.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.btnPlay.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnPlay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(213)))), ((int)(((byte)(213)))));
             this.btnPlay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPlay.Image = global::MultimediaPlayer_DCU.Properties.Resources.play_button;
+            this.btnPlay.Image = ((System.Drawing.Image)(resources.GetObject("btnPlay.Image")));
             this.btnPlay.Location = new System.Drawing.Point(375, 41);
             this.btnPlay.Name = "btnPlay";
             this.btnPlay.Size = new System.Drawing.Size(122, 33);
@@ -245,7 +262,7 @@ namespace MultimediaPlayer_DCU
             this.btnNext.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnNext.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(213)))), ((int)(((byte)(213)))));
             this.btnNext.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNext.Image = global::MultimediaPlayer_DCU.Properties.Resources.next;
+            this.btnNext.Image = ((System.Drawing.Image)(resources.GetObject("btnNext.Image")));
             this.btnNext.Location = new System.Drawing.Point(515, 40);
             this.btnNext.Name = "btnNext";
             this.btnNext.Size = new System.Drawing.Size(122, 33);
@@ -255,6 +272,9 @@ namespace MultimediaPlayer_DCU
             // 
             // Reproductor
             // 
+            this.Reproductor.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Reproductor.Enabled = true;
             this.Reproductor.Location = new System.Drawing.Point(0, 27);
             this.Reproductor.Name = "Reproductor";
@@ -267,20 +287,6 @@ namespace MultimediaPlayer_DCU
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             this.openFileDialog1.Multiselect = true;
-            // 
-            // btnStop
-            // 
-            this.btnStop.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.btnStop.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(213)))), ((int)(((byte)(213)))));
-            this.btnStop.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnStop.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStop.Location = new System.Drawing.Point(237, 40);
-            this.btnStop.Name = "btnStop";
-            this.btnStop.Size = new System.Drawing.Size(122, 33);
-            this.btnStop.TabIndex = 0;
-            this.btnStop.Text = "■";
-            this.btnStop.UseVisualStyleBackColor = false;
-            this.btnStop.Click += new System.EventHandler(this.btnStop_Click);
             // 
             // timer1
             // 
@@ -296,7 +302,7 @@ namespace MultimediaPlayer_DCU
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Video Player 2.0";
+            this.Text = "Vrom Player 2.0";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel3.ResumeLayout(false);

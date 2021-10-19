@@ -63,26 +63,6 @@ namespace MultimediaPlayer_DCU.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap back {
-            get {
-                object obj = ResourceManager.GetObject("back", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap back1 {
-            get {
-                object obj = ResourceManager.GetObject("back1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap back2 {
             get {
                 object obj = ResourceManager.GetObject("back2", resourceCulture);
@@ -115,7 +95,7 @@ namespace MultimediaPlayer_DCU.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap play_button {
             get {
-                object obj = ResourceManager.GetObject("play-button", resourceCulture);
+                object obj = ResourceManager.GetObject("play_button", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
