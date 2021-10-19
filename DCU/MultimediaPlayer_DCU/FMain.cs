@@ -55,8 +55,7 @@ namespace MultimediaPlayer_DCU
             //EN caso de que se seleccione algun archivo.
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                string[] selectedItemsNames;
-                string[] selectedItemsURL;
+                
 
                 if (nombreArchivos is null)
                 {
@@ -67,26 +66,18 @@ namespace MultimediaPlayer_DCU
                     {
                         tboxPlayList.Items.Add(nombreArchivo);
                     }
-
-
                 }
-                else
+                else if (nombreArchivos.Count > 0)
                 {
-
-                    selectedItemsNames = openFileDialog1.SafeFileNames;
-                    selectedItemsURL = openFileDialog1.FileNames;
-
-
-                    for (int i = 0; i < selectedItemsNames.Length; i++)
+                    for( int i = 0; i < openFileDialog1.SafeFileNames.Length; i++ )
                     {
-                        nombreArchivos.Append(selectedItemsNames[i]);
-                        rutasArchivos.Append(selectedItemsURL[i]);
-                        tboxPlayList.Items.Add(selectedItemsNames[i]);
+                        nombreArchivos.Add(openFileDialog1.SafeFileNames[i]);
+                        rutasArchivos.Add(openFileDialog1.FileNames[i]);
 
+                        tboxPlayList.Items.Add(openFileDialog1.SafeFileNames[i]);
                     }
-
-
                 }
+               
 
                 Reproductor.URL = rutasArchivos[0];
                 btnPlay.Image = Properties.Resources.pause;
@@ -126,6 +117,7 @@ namespace MultimediaPlayer_DCU
 
         private void tboxPlayList_SelectedIndexChanged(object sender, EventArgs e)
         {
+
             Reproductor.URL = rutasArchivos[tboxPlayList.SelectedIndex];
         }
 
