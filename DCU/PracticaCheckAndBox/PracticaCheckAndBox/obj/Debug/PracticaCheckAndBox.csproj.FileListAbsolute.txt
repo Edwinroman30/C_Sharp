@@ -1,0 +1,10 @@
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\bin\Debug\PracticaCheckAndBox.exe.config
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\bin\Debug\PracticaCheckAndBox.exe
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\bin\Debug\PracticaCheckAndBox.pdb
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.Form1.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.Properties.Resources.resources
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.csproj.GenerateResource.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.exe
+C:\Users\Edwin\Documents\C_Sharp\DCU\PracticaCheckAndBox\PracticaCheckAndBox\obj\Debug\PracticaCheckAndBox.pdb
