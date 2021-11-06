@@ -1,7 +1,7 @@
 ﻿
 namespace WindowsFormsApp
 {
-    partial class Form1
+    partial class FormPadreControlClose
     {
         /// <summary>
         /// Required designer variable.
@@ -31,13 +31,15 @@ namespace WindowsFormsApp
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // FormPadreControlClose
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(726, 379);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(612, 380);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FormPadreControlClose";
+            this.Text = "FormPadreControlClose";
             this.ResumeLayout(false);
 
         }
@@ -45,4 +47,3 @@ namespace WindowsFormsApp
         #endregion
     }
 }
-

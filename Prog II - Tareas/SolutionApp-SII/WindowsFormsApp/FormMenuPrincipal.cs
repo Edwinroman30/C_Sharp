@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp
 {
-    public partial class ControlAcceso : Form
+    public partial class FormMenuPrincipal : Form
     {
-        public ControlAcceso()
+        public FormMenuPrincipal()
         {
             InitializeComponent();
         }

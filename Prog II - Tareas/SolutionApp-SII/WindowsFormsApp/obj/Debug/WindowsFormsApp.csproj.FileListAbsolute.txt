@@ -10,3 +10,16 @@ C:\Users\Edwin\source\repos\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFor
 C:\Users\Edwin\source\repos\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\Edwin\source\repos\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
 C:\Users\Edwin\source\repos\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormPadreControlClose.resources
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormPadreSinControlBox.resources
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormSplash.resources
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\SolutionApp-SII\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormLogin.resources
