@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{2A488D84-A27D-4FC1-90AF-AA56F3B006D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "User Interfaces", "User Interfaces", "{B54FCE83-6C86-4EAA-BE76-5580E7507009}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows Forms", "Windows Forms", "{CDC575BB-F430-428E-BBE7-13CD53F8BB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{5C932E98-663C-4704-9C82-04E2AC4FF3A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Layers", "Layers", "{722586FD-B063-4501-B35D-28C895C4516B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A488D84-A27D-4FC1-90AF-AA56F3B006D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A488D84-A27D-4FC1-90AF-AA56F3B006D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A488D84-A27D-4FC1-90AF-AA56F3B006D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A488D84-A27D-4FC1-90AF-AA56F3B006D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C932E98-663C-4704-9C82-04E2AC4FF3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C932E98-663C-4704-9C82-04E2AC4FF3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C932E98-663C-4704-9C82-04E2AC4FF3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C932E98-663C-4704-9C82-04E2AC4FF3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A488D84-A27D-4FC1-90AF-AA56F3B006D7} = {CDC575BB-F430-428E-BBE7-13CD53F8BB15}
+		{CDC575BB-F430-428E-BBE7-13CD53F8BB15} = {B54FCE83-6C86-4EAA-BE76-5580E7507009}
+		{5C932E98-663C-4704-9C82-04E2AC4FF3A3} = {722586FD-B063-4501-B35D-28C895C4516B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43B117E-F04F-4E38-8B51-D65F5EA08E5C}
+	EndGlobalSection
+EndGlobal
