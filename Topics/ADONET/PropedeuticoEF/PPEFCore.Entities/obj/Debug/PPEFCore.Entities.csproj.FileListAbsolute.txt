@@ -1,0 +1,5 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.Entities\bin\Debug\PPEFCore.Entities.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.Entities\bin\Debug\PPEFCore.Entities.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.Entities\obj\Debug\PPEFCore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.Entities\obj\Debug\PPEFCore.Entities.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.Entities\obj\Debug\PPEFCore.Entities.pdb

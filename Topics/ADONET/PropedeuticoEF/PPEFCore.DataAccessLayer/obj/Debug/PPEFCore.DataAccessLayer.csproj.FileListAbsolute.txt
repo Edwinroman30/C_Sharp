@@ -1,0 +1,9 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\bin\Debug\PPEFCore.DataAccessLayer.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\bin\Debug\PPEFCore.DataAccessLayer.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\bin\Debug\PPEFCore.Entities.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\bin\Debug\PPEFCore.Entities.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\obj\Debug\PPEFCore.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\obj\Debug\PPEFCore.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\obj\Debug\PPEFCore.DataAccessLayer.csproj.CopyComplete
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\obj\Debug\PPEFCore.DataAccessLayer.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\ADONET\PropedeuticoEF\PPEFCore.DataAccessLayer\obj\Debug\PPEFCore.DataAccessLayer.pdb
