@@ -1,0 +1,7 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\bin\Debug\ConsoleAPP_DelegadosPredicados.exe.config
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\bin\Debug\ConsoleAPP_DelegadosPredicados.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\bin\Debug\ConsoleAPP_DelegadosPredicados.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\obj\Debug\ConsoleAPP_DelegadosPredicados.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\obj\Debug\ConsoleAPP_DelegadosPredicados.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\obj\Debug\ConsoleAPP_DelegadosPredicados.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\Delegados\ConsoleAPP_DelegadosPredicados\obj\Debug\ConsoleAPP_DelegadosPredicados.pdb

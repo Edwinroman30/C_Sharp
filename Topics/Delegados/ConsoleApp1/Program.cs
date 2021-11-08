@@ -8,46 +8,31 @@ namespace ConsoleApp1
 {
     class Program
     {
+        //Definicion del delegado,  en el ambito de una clase.
+        private delegate void DDelegado(string name);
+        
+        //Definicion de otro delegado,  en el ambito de una clase.
+        //delegate void Dsumador(string mess, int num1, int num2);
+
         static void Main(string[] args)
         {
 
-            //Asignacion o Delegacion, face de construccion del delegado.
-            Delegado Dsaludar = new Delegado(CGrettingClient.MorningGretting);
+            //Asignacion o Delegacion.
+            DDelegado Dsaludar = new DDelegado(CGrettingClient.MorningGretting);
 
             Dsaludar("Edwin");
 
-            Dsumador Dsumar = new Dsumador(CSumador.Sumar);
+            //Reutilizacion del delegado:
 
-            Dsumar("La suma es:", 33, 2);
+            Dsaludar = new DDelegado (CGrettingClient.NightGretting);
 
-        }
+            Dsaludar("Roiner");
 
-        //Definicion del delegado, al igual que en el ambito de una clase.
-        delegate void Delegado(string name);
+            //Asignacion o Delegacion.
+            //Dsumador Dsumar = new Dsumador(CSumador.Sumar);
 
-        delegate void Dsumador(string mess, int num1, int num2);
+            //Dsumar("La suma es:", 33, 2);
 
-    }
-
-
-
-    class CSumador{
-
-        public static void Sumar(string messg, int num1, int num2)
-        {
-            Console.WriteLine(messg);
-            Console.WriteLine("{0} + {1} = {2}", num1, num2, (num1 + num2).ToString());
-        }
-
-    }
-
-
-    class CGrettingClient
-    {
-
-        public static void MorningGretting(string name)
-        {
-            Console.WriteLine("Good Mornign {0}, welcome to Delegates Game", name);
         }
 
     }
