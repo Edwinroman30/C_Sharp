@@ -64,6 +64,12 @@
     <Compile Include="FormPadreControlClose.Designer.cs">
       <DependentUpon>FormPadreControlClose.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormPadreMantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPadreMantenimiento.Designer.cs">
+      <DependentUpon>FormPadreMantenimiento.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPadreSinControlBox.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,12 @@
     </Compile>
     <Compile Include="FormSplash.Designer.cs">
       <DependentUpon>FormSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuarios.Designer.cs">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
