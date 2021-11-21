@@ -1,0 +1,6 @@
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\MercanciasSolutionCRUD\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\MercanciasSolutionCRUD\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\MercanciasSolutionCRUD\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\MercanciasSolutionCRUD\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\MercanciasSolutionCRUD\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Edwin\Documents\C_Sharp\Prog II - Tareas\MercanciasSolutionCRUD\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
