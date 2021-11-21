@@ -42,7 +42,7 @@ namespace WindowsFormsApp
 
             var cell = dataGridMercaderia.Rows[rowIndexSolutionError].Cells[e.ColumnIndex];
 
-            if (cell.Value.ToString() == "Editar")
+            if (cell.Value.ToString() == "✏️")
             {
                 FormRegistroMercancias formRegistro = new FormRegistroMercancias();
 
@@ -63,7 +63,7 @@ namespace WindowsFormsApp
                 formRegistro.ShowDialog(this);
 
             }
-            else if (cell.Value.ToString() == "Eliminar")
+            else if (cell.Value.ToString() == "🗑️")
             {
                 DialogResult result = MessageBox.Show
                     (
@@ -116,6 +116,10 @@ namespace WindowsFormsApp
 
         #endregion
 
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            PopulateMercancias(tboxSearch.Text);
+        }
     }
     
 }

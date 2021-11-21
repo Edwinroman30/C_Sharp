@@ -31,6 +31,12 @@ namespace WindowsFormsApp
         {
             this.components = new System.ComponentModel.Container();
             this.dataGridMercaderia = new System.Windows.Forms.DataGridView();
+            this.cMercaderiaBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.tboxSearch = new System.Windows.Forms.TextBox();
+            this.lblSearch = new System.Windows.Forms.Label();
+            this.btnSearch = new System.Windows.Forms.Button();
             this.idMercanciaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.descripcionDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.existenciaDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -39,11 +45,6 @@ namespace WindowsFormsApp
             this.noEliminableDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnEdit = new System.Windows.Forms.DataGridViewButtonColumn();
             this.btnDelete = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.cMercaderiaBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.label1 = new System.Windows.Forms.Label();
-            this.btnAdd = new System.Windows.Forms.Button();
-            this.tboxSearch = new System.Windows.Forms.TextBox();
-            this.lblSearch = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridMercaderia)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cMercaderiaBindingSource1)).BeginInit();
             this.SuspendLayout();
@@ -69,6 +70,62 @@ namespace WindowsFormsApp
             this.dataGridMercaderia.Size = new System.Drawing.Size(830, 325);
             this.dataGridMercaderia.TabIndex = 0;
             this.dataGridMercaderia.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridMercaderia_CellContentClick);
+            // 
+            // cMercaderiaBindingSource1
+            // 
+            this.cMercaderiaBindingSource1.DataSource = typeof(ClassLibrary.Entities.CMercaderia);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(342, 32);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(189, 24);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Datos de Existencias:";
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAdd.Location = new System.Drawing.Point(739, 77);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(113, 33);
+            this.btnAdd.TabIndex = 7;
+            this.btnAdd.Text = "➕ Añadir";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
+            // tboxSearch
+            // 
+            this.tboxSearch.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tboxSearch.Location = new System.Drawing.Point(84, 79);
+            this.tboxSearch.Multiline = true;
+            this.tboxSearch.Name = "tboxSearch";
+            this.tboxSearch.Size = new System.Drawing.Size(518, 31);
+            this.tboxSearch.TabIndex = 5;
+            this.tboxSearch.TextChanged += new System.EventHandler(this.tboxSearch_TextChanged);
+            // 
+            // lblSearch
+            // 
+            this.lblSearch.AutoSize = true;
+            this.lblSearch.Font = new System.Drawing.Font("Nirmala UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSearch.Location = new System.Drawing.Point(18, 83);
+            this.lblSearch.Name = "lblSearch";
+            this.lblSearch.Size = new System.Drawing.Size(60, 21);
+            this.lblSearch.TabIndex = 4;
+            this.lblSearch.Text = "Buscar:";
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSearch.Location = new System.Drawing.Point(620, 78);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(113, 32);
+            this.btnSearch.TabIndex = 7;
+            this.btnSearch.Text = "🔎";
+            this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // idMercanciaDataGridViewTextBoxColumn
             // 
@@ -113,7 +170,7 @@ namespace WindowsFormsApp
             this.btnEdit.ReadOnly = true;
             this.btnEdit.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.btnEdit.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.btnEdit.Text = "Editar";
+            this.btnEdit.Text = "✏️";
             this.btnEdit.UseColumnTextForButtonValue = true;
             // 
             // btnDelete
@@ -121,59 +178,15 @@ namespace WindowsFormsApp
             this.btnDelete.HeaderText = "Eliminar";
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.ReadOnly = true;
-            this.btnDelete.Text = "Eliminar";
+            this.btnDelete.Text = "🗑️";
             this.btnDelete.UseColumnTextForButtonValue = true;
-            // 
-            // cMercaderiaBindingSource1
-            // 
-            this.cMercaderiaBindingSource1.DataSource = typeof(ClassLibrary.Entities.CMercaderia);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(342, 32);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(189, 24);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Datos de Existencias:";
-            // 
-            // btnAdd
-            // 
-            this.btnAdd.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAdd.Location = new System.Drawing.Point(702, 77);
-            this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(150, 23);
-            this.btnAdd.TabIndex = 7;
-            this.btnAdd.Text = "Añadir";
-            this.btnAdd.UseVisualStyleBackColor = true;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
-            // 
-            // tboxSearch
-            // 
-            this.tboxSearch.Font = new System.Drawing.Font("Nirmala UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tboxSearch.Location = new System.Drawing.Point(84, 79);
-            this.tboxSearch.Multiline = true;
-            this.tboxSearch.Name = "tboxSearch";
-            this.tboxSearch.Size = new System.Drawing.Size(598, 21);
-            this.tboxSearch.TabIndex = 5;
-            this.tboxSearch.TextChanged += new System.EventHandler(this.tboxSearch_TextChanged);
-            // 
-            // lblSearch
-            // 
-            this.lblSearch.AutoSize = true;
-            this.lblSearch.Font = new System.Drawing.Font("Nirmala UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSearch.Location = new System.Drawing.Point(18, 77);
-            this.lblSearch.Name = "lblSearch";
-            this.lblSearch.Size = new System.Drawing.Size(60, 21);
-            this.lblSearch.TabIndex = 4;
-            this.lblSearch.Text = "Buscar:";
             // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(881, 520);
+            this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.tboxSearch);
             this.Controls.Add(this.lblSearch);
@@ -207,6 +220,7 @@ namespace WindowsFormsApp
         private System.Windows.Forms.DataGridViewTextBoxColumn noEliminableDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewButtonColumn btnEdit;
         private System.Windows.Forms.DataGridViewButtonColumn btnDelete;
+        private System.Windows.Forms.Button btnSearch;
     }
 }
 

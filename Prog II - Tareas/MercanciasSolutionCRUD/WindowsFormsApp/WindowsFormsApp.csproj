@@ -91,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Onboarding\" />
+    <Folder Include="Resources\" />
     <Folder Include="SplashScreens\" />
   </ItemGroup>
   <ItemGroup>
