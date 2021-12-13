@@ -1,0 +1,16 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ConsoleAppIntro.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ConsoleAppIntro.deps.json
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ConsoleAppIntro.runtimeconfig.json
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ConsoleAppIntro.runtimeconfig.dev.json
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ConsoleAppIntro.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ref\ConsoleAppIntro.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\bin\Debug\net5.0\ConsoleAppIntro.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.AssemblyInfoInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.AssemblyInfo.cs
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ref\ConsoleAppIntro.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\XML_Solution\ConsoleAppIntro\obj\Debug\net5.0\ConsoleAppIntro.genruntimeconfig.cache
