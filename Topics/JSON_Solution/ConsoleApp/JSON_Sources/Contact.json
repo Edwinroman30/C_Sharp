@@ -1,0 +1,77 @@
+[
+  {
+    "Name": "Jely Code",
+    "Address": {
+      "Street": "Ave. 27 Febrero",
+      "Number": 23,
+      "City": {
+        "Name": "STG Este",
+        "Country": {
+          "Code": "DR",
+          "Name": "Dominican Republic"
+        }
+      }
+    },
+    "Phone": [
+      {
+        "TypePhone": "Home Phone",
+        "Phone": "33-23234-234"
+      },
+      {
+        "TypePhone": "Personal Phone",
+        "Phone": "00-23323-122"
+      }
+    ],
+    "DateOfBirth": "1994-02-23T00:00:00"
+  },
+  {
+    "Name": "Francis",
+    "Address": {
+      "Street": "Juan Marcelino",
+      "Number": 19,
+      "City": {
+        "Name": "Mexico City",
+        "Country": {
+          "Code": "MX",
+          "Name": "Mexico"
+        }
+      }
+    },
+    "Phone": [
+      {
+        "TypePhone": "Home Phone",
+        "Phone": "33-23234-234"
+      },
+      {
+        "TypePhone": "Personal Phone",
+        "Phone": "00-23323-122"
+      }
+    ],
+    "DateOfBirth": "2000-03-30T00:00:00"
+  },
+  {
+    "Name": "Pastian D'Xruz",
+    "Address": {
+      "Street": "Rey Luis II",
+      "Number": 4,
+      "City": {
+        "Name": "Barcelona",
+        "Country": {
+          "Code": "ES",
+          "Name": "Spain"
+        }
+      }
+    },
+    "Phone": [
+      {
+        "TypePhone": "Home Phone",
+        "Phone": "33-23234-234"
+      },
+      {
+        "TypePhone": "Personal Phone",
+        "Phone": "00-23323-122"
+      }
+    ],
+    "DateOfBirth": "1990-08-02T00:00:00"
+  }
+]
