@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DecoratingPattern/1.0.0": {
+        "runtime": {
+          "DecoratingPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecoratingPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

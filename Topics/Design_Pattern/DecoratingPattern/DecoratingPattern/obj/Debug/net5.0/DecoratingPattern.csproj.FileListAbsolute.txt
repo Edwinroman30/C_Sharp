@@ -1,0 +1,16 @@
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.csproj.AssemblyReference.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.AssemblyInfoInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.AssemblyInfo.cs
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\DecoratingPattern.exe
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\DecoratingPattern.deps.json
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\DecoratingPattern.runtimeconfig.json
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\DecoratingPattern.runtimeconfig.dev.json
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\DecoratingPattern.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\ref\DecoratingPattern.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\bin\Debug\net5.0\DecoratingPattern.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\ref\DecoratingPattern.dll
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.pdb
+C:\Users\Edwin\Documents\C_Sharp\Topics\Design_Pattern\DecoratingPattern\DecoratingPattern\obj\Debug\net5.0\DecoratingPattern.genruntimeconfig.cache
